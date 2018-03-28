@@ -1,4 +1,7 @@
-\# VoodooTemplate
+Deprecated
+==========
+
+\# VoodooTemplate 
 
 Get Started
 ===========
